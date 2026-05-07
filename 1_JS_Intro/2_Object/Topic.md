@@ -1,0 +1,1 @@
+<!-- New method learnt of Getting the lenf=gth of the function -->

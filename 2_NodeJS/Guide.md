@@ -1,0 +1,1 @@
+There's alot more to understand, use NodeJS documentation(filesystem and http)
