@@ -5,3 +5,23 @@ MERN Stands for
 4. NodeJS
 
 Note: 3/4 are Backend only which is M,E,N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add .gitignore whenever you use node_modules
