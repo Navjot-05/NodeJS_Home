@@ -29,7 +29,7 @@ Add .gitignore whenever you use node_modules
 
 
 # git commands learnt
-git rm -r --cached <filepath>
+git rm -r --cached <file path>
 
 will remove them from that repo when uploaded accidently
 
