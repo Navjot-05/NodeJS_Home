@@ -1,3 +1,5 @@
+NOTE:- THIS WHOLE THING WILL NOT FOLLOW INDUSTRY STANDARDS!!
+
 MERN Stands for
 1. MongoDB
 2. ExpressJS
@@ -21,7 +23,7 @@ will remove them from that repo when uploaded accidently
         git remote set-url <repo link>
 
 
-
+// Object relational mapping (ORM) & Object document Mapping(ODM)
 
 # Below url is best for downloading specific git repo folders
 [text](http://download-directory.github.io/)
