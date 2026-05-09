@@ -7,23 +7,6 @@ MERN Stands for
 Note: 3/4 are Backend only which is M,E,N
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Add .gitignore whenever you use node_modules
 
 
@@ -36,3 +19,9 @@ will remove them from that repo when uploaded accidently
 
 # git command for changing the git repo on which we are going to upload our files
         git remote set-url <repo link>
+
+
+
+
+# Below url is best for downloading specific git repo folders
+[text](http://download-directory.github.io/)
