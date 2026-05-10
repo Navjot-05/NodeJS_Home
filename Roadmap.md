@@ -27,3 +27,5 @@ will remove them from that repo when uploaded accidently
 
 # Below url is best for downloading specific git repo folders
 [text](http://download-directory.github.io/)
+
+learn github mastery series from sheryians coding school
