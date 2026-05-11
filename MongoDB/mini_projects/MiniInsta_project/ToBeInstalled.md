@@ -1,0 +1,1 @@
+npm i express mongoose jsonwebtoken cookie-parser bcrypt ejs
